@@ -1,1 +1,1 @@
-# Mi primer README
+# Trabajo práctico Git
